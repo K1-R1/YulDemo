@@ -1,6 +1,6 @@
 # YulDemo
 
-This repo contains some Yul examples from the solidity documentation.
+This repo contains some Yul examples from the solidity documentation. It is for pesonal reference.
 
 ### Yul
 From the solidity documentaion:
